@@ -1,2 +1,2 @@
 # Game-over
-eto repozitoriy dlya ....
+eto repozitoriy dlya ..
